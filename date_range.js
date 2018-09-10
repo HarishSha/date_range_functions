@@ -45,4 +45,5 @@ getDates = function (year, type, template) {
                         }
                         break;
                 }
+                return date;
         };
